@@ -1,4 +1,4 @@
-# retailer_expansion
+## retailer_expansion
 
 Case Study: Expansion of a Renowned Retailer in new Country
 
